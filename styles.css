@@ -8,3 +8,7 @@
     width: 1000px;
     min-height: 50px;
 }
+
+ul.student, ul.instructor, ul.admin {
+    display: none;
+}
